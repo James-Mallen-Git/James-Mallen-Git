@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @James-Mallen-Git
-- 👀 I’m interested in Compter & Data Science and website design
-- 🌱 I’m currently a satge 3 Computer&Data Science student
+- 👀 I’m interested in Computer & Data Science and Development
+- 🌱 I’m currently a recent Computer&Data Science student graduate
 - 📫 How to reach me --> james.mallen21@gmail.com
 
 <!---
